@@ -3,11 +3,11 @@
 ## About Me :wave:
 <a href="https://www.linkedin.com/in/prabhash-kumar-837925200/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **JAVA -Full Stack**
 
-- 🌱 Currently learning **Machine Learning Algorithms**
+- 🌱 Currently learning **Spring Boot**
 
-- 💬 Ask me about **Python,Numpy,Pandas,Seaborn,Matplotlib,Beautiful Soup, Selenium, Machine Learning Algorithms**
+- 💬 Ask me about **Java,JDBC,JSP,Spring,Spring Boot,J Unit, Data and Structures**
 
 - 📫 How to reach me **prabhashkumar1219@gmail.com**
 
